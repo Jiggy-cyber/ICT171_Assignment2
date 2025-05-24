@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt install apache2 -y
+sudo apt install apache2
 sudo ufw enable
-sudo apt install certbot python3-certbot-apache -y
+sudo apt install certbot python3-certbot-apache 
 sudo certbot --apache
