@@ -14,6 +14,7 @@ a different user. Visit the website at("https://creativecommons.org/licenses/by/
 
 Server Link:
 1)Elastic IP: 52.73.48.19
+
 2)Domain Name: https://cyberawareblog.org/
 
 Files:
