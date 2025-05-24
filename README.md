@@ -25,10 +25,10 @@ Files:
 5) ICT171_Assignment2_Documentation.pdf
 
 Server Details:
-Server: Apache2
-Domain Registrar: Namecheap (Namecheap, n.d)
-SSL Registrator: Let's Encrypt (Let;s Encrypt, 2024)
-Region: US East (N.Virginia) (Amazon Web Services, n.d)
+1) Server: Apache2
+2) Domain Registrar: Namecheap (Namecheap, n.d)
+3) SSL Registrator: Let's Encrypt (Let;s Encrypt, 2024)
+4) Region: US East (N.Virginia) (Amazon Web Services, n.d)
 
 Video Explainer:
 
