@@ -13,6 +13,7 @@ Creative Commons or more  specifically CC-BY 4.0, which ensures that my work rem
 a different user. Visit the website at("https://creativecommons.org/licenses/by/4.0") (Creative Commons, n.d).
 
 Server Link:
+
 1)Elastic IP: 52.73.48.19
 
 2)Domain Name: https://cyberawareblog.org/
