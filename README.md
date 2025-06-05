@@ -47,7 +47,9 @@ Apache 2 Web Server Setup:
 4)	Domain name: cyberawareblog.org
 5)	Once the domain name is purchased, link it  to our instance
 6)	Linked DNS to the instance using Elastic IP
- 
+
+ ## DNS Setup Screenshot:
+ [DNS setup screenshot](https://raw.githubusercontent.com/Jiggy-cyber/ICT171_Assignment2/a790662b567c858a3078d8fd99afd16d2bd2782f/Screenshot%202025-05-31%20152350.png)
 ## SSL configuration:
 Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 1)	Open Ubuntu and log in to our server using the command “ssh -i (key_name) ubuntu@<elastic IP>”
