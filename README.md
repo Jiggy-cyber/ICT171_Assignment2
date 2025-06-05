@@ -54,6 +54,9 @@ Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 3)	Installed Certbot: “sudo apt install certbot python3-certbot-apache”
 4)	Ran: “sudo certbot –apache”
 5)	SSL certificate successfully installed
+
+## SSL Screenchot:
+[ssl screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20140331.png)
  
 
 
