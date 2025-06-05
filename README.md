@@ -45,8 +45,6 @@ Apache 2 Web Server Setup:
 5)	Once the domain name is purchased, link it  to our instance
 6)	Linked DNS to the instance using Elastic IP
  
-
-
 ## SSL configuration:
 Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 1)	Open Ubuntu and log in to our server using the command “ssh -i (key_name) ubuntu@<elastic IP>”
@@ -55,8 +53,8 @@ Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 4)	Ran: “sudo certbot –apache”
 5)	SSL certificate successfully installed
 
-## SSL Screenchot:
-[ssl screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20140331.png)
+## SSL setup Screenchot:
+[ssl setup screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20140331.png)
  
 
 
@@ -65,6 +63,9 @@ Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 2)	Make necessary changes to the website content using HTML and CSS.
 3)	W3Schools provides the necessary coding information to create designs.
 4)	After editing, save the work and exit.
+
+## HTML and CSS Screenshot:
+[HTML/CSS Screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20162129.png?raw=true)
  
 ## Script Summary:
 Script:
