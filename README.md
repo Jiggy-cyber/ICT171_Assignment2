@@ -36,7 +36,7 @@ Apache 2 Web Server Setup:
 5)	Go to PowerShell and log in to the files where the documents(SSH) are saved
 6)	Log in to the Ubuntu server by using the command: “ssh -i JigsSecurity.pem ubuntu@<52.73.48.19>”
 7)	Installed Apache2: “sudo apt update && sudo apt install apache2 ”
-8)	Uploaded files through scp: scp index.html ubuntu@<52.73.48.19>:/var/www/html/
+8)	Uploaded files through sudo nano /var/www/html/index.html
 9)	Verified if the site loads using the elastic IP
 
 ## Elastic IP linking Screenshot:
@@ -67,7 +67,7 @@ Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 
 
 ## Website editing:
-1)	Once logged into the server, use the command: scp index.html ubuntu@<Elastic IP>:/var/www/html/ to edit the server designs and content.
+1)	Once logged into the server, use the command: sudo nano /var/www/html/index.html to edit the server designs and content.
 2)	Make necessary changes to the website content using HTML and CSS.
 3)	W3Schools provides the necessary coding information to create designs.
 4)	After editing, save the work and exit.
