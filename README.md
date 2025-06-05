@@ -62,12 +62,12 @@ Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
  
 ## Script Summary:
 Script:
-File name: security_script.sh
-sudo apt update: makes Apache ready for installation, as it updates the package
-sudo apt install apache2 : installs apache
-sudo ufw enable: enables the firewall for the server
-sudo apt install certbot python3-certbot-apache : installs certbot for ssl certificate
-sudo certbot-- apache: Runs Certbot to configure Apache with the SSL certificate
+1) File name: security_script.sh
+2) sudo apt update: makes Apache ready for installation, as it updates the package
+3) sudo apt install apache2 : installs apache
+4) sudo ufw enable: enables the firewall for the server
+5) sudo apt install certbot python3-certbot-apache : installs certbot for ssl certificate
+6) sudo certbot-- apache: Runs Certbot to configure Apache with the SSL certificate
 
 ## Explanation: 
 This script updates the server, installs Apache2, installs Certbot, enables the firewall, and runs SSL setup. This makes server deployment secure and easily accessible.
