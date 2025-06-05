@@ -1,4 +1,7 @@
 # ICT171_Assignment2
+### Name: Jigme Kuendrol Wangchuk
+### Student ID: 35479911
+
 ## Domain Name: https://cyberawareblog.org/
 ## Elastic IP: 52.73.48.19
 
@@ -47,7 +50,7 @@ Apache 2 Web Server Setup:
 ## SSL configuration:
 Used Let’s Encrypt to enable HTTPS (Let’s Encrypt, 2024)
 1)	Open Ubuntu and log in to our server using the command “ssh -i (key_name) ubuntu@<elastic IP>”
-2)	Firstly, perform the commands: sudo apt update and apt install apache2  to make Apache ready for installation as it updates the package and also installs Apache
+2)	Firstly, perform the commands: "sudo apt update" and "apt install apache2"  to make Apache ready for installation as it updates the package and also installs Apache
 3)	Installed Certbot: “sudo apt install certbot python3-certbot-apache”
 4)	Ran: “sudo certbot –apache”
 5)	SSL certificate successfully installed
