@@ -34,7 +34,7 @@ Apache 2 Web Server Setup:
 3)	Save the SSH file in a safe place
 4)	Configure the instance with an Elastic IP in the Elastic IP options
 5)	Go to PowerShell and log in to the files where the documents(SSH) are saved
-6)	Log in to the Ubuntu server by using the command: “ssh -i JigSecurity.pem ubuntu@<52.73.48.19>”
+6)	Log in to the Ubuntu server by using the command: “ssh -i JigsSecurity.pem ubuntu@<52.73.48.19>”
 7)	Installed Apache2: “sudo apt update && sudo apt install apache2 ”
 8)	Uploaded files through scp: scp index.html ubuntu@<52.73.48.19>:/var/www/html/
 9)	Verified if the site loads using the elastic IP
