@@ -38,6 +38,9 @@ Apache 2 Web Server Setup:
 7)	Installed Apache2: “sudo apt update && sudo apt install apache2 ”
 8)	Uploaded files through scp: scp index.html ubuntu@<52.73.48.19>:/var/www/html/
 9)	Verified if the site loads using the elastic IP
+
+## Elastic IP linking Screenshot:
+[Elastic IP verification screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20154400.png?raw=true)
  
 
 ## Linking DNS:
