@@ -96,7 +96,8 @@ For the server to run and last for multiple years:
 4)	Updates: Regularly run updates to maintain security
 
 ## GitHub Timeline Evidence:
-[Development timeline screenshot]()
+[Development timeline screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/development_timeline_screenshot.png?raw=true)
+
 The full development timeline of this project can be viewed at: (https://github.com/Jiggy-cyber/ICT171_Assignment2/commits/main/).
  
 
