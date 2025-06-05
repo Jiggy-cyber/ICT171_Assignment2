@@ -94,7 +94,10 @@ For the server to run and last for multiple years:
 2)	Storage:  EBS for larger storage
 3)	SSL: Let’s Encrypt provides auto-renewals (Let’s Encrypt, 2024)
 4)	Updates: Regularly run updates to maintain security
-GitHub Timeline Evidence:
+
+## GitHub Timeline Evidence:
+[Development timeline screenshot]()
+The full development timeline of this project can be viewed at: (https://github.com/Jiggy-cyber/ICT171_Assignment2/commits/main/).
  
 
 ## Conclusion:
