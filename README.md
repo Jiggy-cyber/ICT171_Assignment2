@@ -71,6 +71,7 @@ Script:
 
 ## Explanation: 
 This script updates the server, installs Apache2, installs Certbot, enables the firewall, and runs SSL setup. This makes server deployment secure and easily accessible.
+This script was used to create the web server(https://cyberawareblog.org/).
 
 ## Maintenance Considerations:
 For the server to run and last for multiple years:
