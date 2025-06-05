@@ -23,6 +23,9 @@ AWS EC2 Instance:
 2)	Instance Type: t2.micro (Amazon Web Services, n.d)
 3)	IP address: Elastic IP has been purchased and allocated to the instance
 4)	Security: HTTPS access was enabled using an SSL certificate from Let’s Encrypt, which ensured the transfer of safe traffic only.
+
+## Server Setup Screenshot:
+[Server Setup screenshot](https://github.com/Jiggy-cyber/ICT171_Assignment2/blob/main/Screenshot%202025-05-31%20162533.png?raw=true)
  
 ## Deployment of Website:
 Apache 2 Web Server Setup:
