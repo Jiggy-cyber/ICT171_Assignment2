@@ -83,6 +83,7 @@ Script:
 4) sudo ufw enable: enables the firewall for the server
 5) sudo apt install certbot python3-certbot-apache : installs certbot for ssl certificate
 6) sudo certbot-- apache: Runs Certbot to configure Apache with the SSL certificate
+   Note: The firewall command was not used in this web server, as it logged me out of my previous project.
 
 ## Explanation: 
 This script updates the server, installs Apache2, installs Certbot, enables the firewall, and runs SSL setup. This makes server deployment secure and easily accessible.
