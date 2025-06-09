@@ -131,7 +131,7 @@ The licensing used was Creative Commons (CC-BY 4.0) as it allows users to build 
 4) Region: US East (N.Virginia) (Amazon Web Services, n.d)
 
 ## Video Explainer:
-
+Youtube link: [https://youtu.be/r5tg9Fc8snU]
 
 
 ## References:
