@@ -1,4 +1,4 @@
-# ICT171_Assignment2
+# ICT171_Assignment2(Documentation)
 ### Name: Jigme Kuendrol Wangchuk
 ### Student ID: 35479911
 
